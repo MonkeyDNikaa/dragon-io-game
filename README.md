@@ -2,7 +2,21 @@
 
 A Slither.io-style multiplayer snake game built with Node.js, Express, and Socket.IO.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/MonkeyDNikaa/dragon-io-game)
+## 🚀 Déploiement Gratuit (Sans Carte)
+
+### Option 1 : Cyclic.sh (Recommandé)
+[![Deploy to Cyclic](https://img.shields.io/badge/Deploy-Cyclic-3B82F6?style=for-the-badge)](https://cyclic.sh)
+
+1. Va sur https://cyclic.sh
+2. Connecte avec GitHub
+3. Clique "Deploy" et sélectionne ce repo
+4. Fait ! 🎉
+
+### Option 2 : Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/MonkeyDNikaa/dragon-io-game)
+
+### Option 3 : Glitch
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee545c74f1b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/MonkeyDNikaa/dragon-io-game)
 
 ## 🎮 Features
 

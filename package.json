@@ -1,11 +1,11 @@
 {
-  "name": "dragon.io",
-  "version": "2.0.0",
-  "description": "Dragon.io - Slither.io clone with clean architecture",
+  "name": "dragon-io",
+  "version": "1.0.0",
+  "description": "Dragon.io multiplayer game",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node --watch server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "express": "^4.18.2",
